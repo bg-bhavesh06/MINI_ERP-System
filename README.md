@@ -21,17 +21,6 @@
 | **Sales** | `sales@erp.com` | `sales123` | Customers CRM, Create & Confirm Challans |
 | **Warehouse** | `warehouse@erp.com` | `warehouse123` | Products catalog & Stock IN/OUT adjustments |
 | **Accounts** | `accounts@erp.com` | `accounts123` | Read-only view & PDF delivery challan export |
-
----
-
-## 🎥 Demo Links
-
-| Item | Link |
-|---|---|
-| **🎬 Screen Recording** | [https://drive.google.com/file/d/1qoVMgJ02UjTJyQHkUk-xpiywCY_mkRP3/view?usp=sharing](https://drive.google.com/file/d/1qoVMgJ02UjTJyQHkUk-xpiywCY_mkRP3/view?usp=sharing) |
-| **📄 Resume** | [https://drive.google.com/file/d/1Lc4RC_hG62P7AihiTapnT6jHlGD2O97m/view](https://drive.google.com/file/d/1Lc4RC_hG62P7AihiTapnT6jHlGD2O97m/view) |
-| **📑 Documents** | [https://drive.google.com/file/d/1EJKLbO26cLtDhWwgnTvWhtr0Rodo6aBt/view?usp=sharing](https://drive.google.com/file/d/1EJKLbO26cLtDhWwgnTvWhtr0Rodo6aBt/view?usp=sharing) |
-
 ---
 
 ## Table of Contents
